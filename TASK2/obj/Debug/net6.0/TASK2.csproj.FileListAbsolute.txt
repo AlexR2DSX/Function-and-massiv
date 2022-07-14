@@ -1,0 +1,15 @@
+D:\SEMINARC#DZ\TASK2\bin\Debug\net6.0\TASK2.exe
+D:\SEMINARC#DZ\TASK2\bin\Debug\net6.0\TASK2.deps.json
+D:\SEMINARC#DZ\TASK2\bin\Debug\net6.0\TASK2.runtimeconfig.json
+D:\SEMINARC#DZ\TASK2\bin\Debug\net6.0\TASK2.dll
+D:\SEMINARC#DZ\TASK2\bin\Debug\net6.0\TASK2.pdb
+D:\SEMINARC#DZ\TASK2\obj\Debug\net6.0\TASK2.csproj.AssemblyReference.cache
+D:\SEMINARC#DZ\TASK2\obj\Debug\net6.0\TASK2.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEMINARC#DZ\TASK2\obj\Debug\net6.0\TASK2.AssemblyInfoInputs.cache
+D:\SEMINARC#DZ\TASK2\obj\Debug\net6.0\TASK2.AssemblyInfo.cs
+D:\SEMINARC#DZ\TASK2\obj\Debug\net6.0\TASK2.csproj.CoreCompileInputs.cache
+D:\SEMINARC#DZ\TASK2\obj\Debug\net6.0\TASK2.dll
+D:\SEMINARC#DZ\TASK2\obj\Debug\net6.0\refint\TASK2.dll
+D:\SEMINARC#DZ\TASK2\obj\Debug\net6.0\TASK2.pdb
+D:\SEMINARC#DZ\TASK2\obj\Debug\net6.0\TASK2.genruntimeconfig.cache
+D:\SEMINARC#DZ\TASK2\obj\Debug\net6.0\ref\TASK2.dll
