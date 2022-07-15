@@ -1,0 +1,15 @@
+D:\SEMINARC#DZ\TASK8\bin\Debug\net6.0\TASK8.exe
+D:\SEMINARC#DZ\TASK8\bin\Debug\net6.0\TASK8.deps.json
+D:\SEMINARC#DZ\TASK8\bin\Debug\net6.0\TASK8.runtimeconfig.json
+D:\SEMINARC#DZ\TASK8\bin\Debug\net6.0\TASK8.dll
+D:\SEMINARC#DZ\TASK8\bin\Debug\net6.0\TASK8.pdb
+D:\SEMINARC#DZ\TASK8\obj\Debug\net6.0\TASK8.csproj.AssemblyReference.cache
+D:\SEMINARC#DZ\TASK8\obj\Debug\net6.0\TASK8.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEMINARC#DZ\TASK8\obj\Debug\net6.0\TASK8.AssemblyInfoInputs.cache
+D:\SEMINARC#DZ\TASK8\obj\Debug\net6.0\TASK8.AssemblyInfo.cs
+D:\SEMINARC#DZ\TASK8\obj\Debug\net6.0\TASK8.csproj.CoreCompileInputs.cache
+D:\SEMINARC#DZ\TASK8\obj\Debug\net6.0\TASK8.dll
+D:\SEMINARC#DZ\TASK8\obj\Debug\net6.0\refint\TASK8.dll
+D:\SEMINARC#DZ\TASK8\obj\Debug\net6.0\TASK8.pdb
+D:\SEMINARC#DZ\TASK8\obj\Debug\net6.0\TASK8.genruntimeconfig.cache
+D:\SEMINARC#DZ\TASK8\obj\Debug\net6.0\ref\TASK8.dll

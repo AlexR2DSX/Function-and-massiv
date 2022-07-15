@@ -1,0 +1,5 @@
+D:\SEMINARC#DZ\TASK6\obj\Debug\net6.0\TASK6.csproj.AssemblyReference.cache
+D:\SEMINARC#DZ\TASK6\obj\Debug\net6.0\TASK6.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEMINARC#DZ\TASK6\obj\Debug\net6.0\TASK6.AssemblyInfoInputs.cache
+D:\SEMINARC#DZ\TASK6\obj\Debug\net6.0\TASK6.AssemblyInfo.cs
+D:\SEMINARC#DZ\TASK6\obj\Debug\net6.0\TASK6.csproj.CoreCompileInputs.cache
