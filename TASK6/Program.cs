@@ -1,14 +1,10 @@
-﻿class Task{
-static void Main()
-}
-Console.WritLine("Является ли число четным");
-Console.Write("Введите число");
-Double a=Convert .ToDouble(Console.RedLine());
-if (a%2==0)
-{
-    Console.WritLine("Да")
+﻿Console.WriteLine("Является ли число чётным");
+Console.Write("Введите число:");
+double a = Convert.ToDouble(Console.ReadLine());
+if (a % 2 = 0){
+Console.WriteLine("Да");
 }
 else
 {
-    Console.WritLine("Нет")
+Console.WriteLine("Нет");
 }
