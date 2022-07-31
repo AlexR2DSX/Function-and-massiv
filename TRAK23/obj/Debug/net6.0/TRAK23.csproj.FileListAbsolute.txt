@@ -1,0 +1,15 @@
+D:\SEMINARC#DZ\TRAK23\bin\Debug\net6.0\TRAK23.exe
+D:\SEMINARC#DZ\TRAK23\bin\Debug\net6.0\TRAK23.deps.json
+D:\SEMINARC#DZ\TRAK23\bin\Debug\net6.0\TRAK23.runtimeconfig.json
+D:\SEMINARC#DZ\TRAK23\bin\Debug\net6.0\TRAK23.dll
+D:\SEMINARC#DZ\TRAK23\bin\Debug\net6.0\TRAK23.pdb
+D:\SEMINARC#DZ\TRAK23\obj\Debug\net6.0\TRAK23.csproj.AssemblyReference.cache
+D:\SEMINARC#DZ\TRAK23\obj\Debug\net6.0\TRAK23.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEMINARC#DZ\TRAK23\obj\Debug\net6.0\TRAK23.AssemblyInfoInputs.cache
+D:\SEMINARC#DZ\TRAK23\obj\Debug\net6.0\TRAK23.AssemblyInfo.cs
+D:\SEMINARC#DZ\TRAK23\obj\Debug\net6.0\TRAK23.csproj.CoreCompileInputs.cache
+D:\SEMINARC#DZ\TRAK23\obj\Debug\net6.0\TRAK23.dll
+D:\SEMINARC#DZ\TRAK23\obj\Debug\net6.0\refint\TRAK23.dll
+D:\SEMINARC#DZ\TRAK23\obj\Debug\net6.0\TRAK23.pdb
+D:\SEMINARC#DZ\TRAK23\obj\Debug\net6.0\TRAK23.genruntimeconfig.cache
+D:\SEMINARC#DZ\TRAK23\obj\Debug\net6.0\ref\TRAK23.dll

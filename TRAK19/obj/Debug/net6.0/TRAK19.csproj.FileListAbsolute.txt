@@ -1,0 +1,15 @@
+D:\SEMINARC#DZ\TRAK19\bin\Debug\net6.0\TRAK19.exe
+D:\SEMINARC#DZ\TRAK19\bin\Debug\net6.0\TRAK19.deps.json
+D:\SEMINARC#DZ\TRAK19\bin\Debug\net6.0\TRAK19.runtimeconfig.json
+D:\SEMINARC#DZ\TRAK19\bin\Debug\net6.0\TRAK19.dll
+D:\SEMINARC#DZ\TRAK19\bin\Debug\net6.0\TRAK19.pdb
+D:\SEMINARC#DZ\TRAK19\obj\Debug\net6.0\TRAK19.csproj.AssemblyReference.cache
+D:\SEMINARC#DZ\TRAK19\obj\Debug\net6.0\TRAK19.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEMINARC#DZ\TRAK19\obj\Debug\net6.0\TRAK19.AssemblyInfoInputs.cache
+D:\SEMINARC#DZ\TRAK19\obj\Debug\net6.0\TRAK19.AssemblyInfo.cs
+D:\SEMINARC#DZ\TRAK19\obj\Debug\net6.0\TRAK19.csproj.CoreCompileInputs.cache
+D:\SEMINARC#DZ\TRAK19\obj\Debug\net6.0\TRAK19.dll
+D:\SEMINARC#DZ\TRAK19\obj\Debug\net6.0\refint\TRAK19.dll
+D:\SEMINARC#DZ\TRAK19\obj\Debug\net6.0\TRAK19.pdb
+D:\SEMINARC#DZ\TRAK19\obj\Debug\net6.0\TRAK19.genruntimeconfig.cache
+D:\SEMINARC#DZ\TRAK19\obj\Debug\net6.0\ref\TRAK19.dll
